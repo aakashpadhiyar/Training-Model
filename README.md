@@ -7,7 +7,7 @@
 
 ## code
 
-   ``` from detecto import core, utils, visualize
+``` from detecto import core, utils, visualize
 
     image = utils.read_image('Imagename.jpg')
     model = core.Model()

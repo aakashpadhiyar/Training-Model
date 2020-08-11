@@ -6,7 +6,7 @@
 
 
 ## code
-```
+```python
 from detecto import core, utils, visualize
 
 image = utils.read_image('Imagename.jpg')
